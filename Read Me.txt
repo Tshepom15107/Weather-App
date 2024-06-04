@@ -1,0 +1,23 @@
+# Weather App
+
+This is a weather application built with Angular and C# that displays a 5-day weather forecast and hourly forecasts for a selected day. The application fetches data from the OpenWeatherMap API and provides a responsive user interface.
+
+## Features
+
+- Display current weather conditions, temperature, humidity, and wind speed for a selected city
+- Show a 5-day weather forecast with high and low temperatures
+- View hourly forecasts for a selected day
+- Automatically refresh weather data every 5 minutes
+- Responsive design for different screen sizes and orientations
+- Error handling and user-friendly error messages
+
+## Technologies Used
+
+- Angular (Frontend)
+- C# (Backend API)
+- OpenWeatherMap API
+- (Add any other technologies or libraries you plan to use)
+
+## Setup and Installation
+
+(You will add these instructions later)
