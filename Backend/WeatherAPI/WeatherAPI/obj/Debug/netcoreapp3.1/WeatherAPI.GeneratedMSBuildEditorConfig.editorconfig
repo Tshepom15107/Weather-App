@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = WeatherAPI
-build_property.ProjectDir = c:\Users\User\Desktop\Projects\Bitcube\Backend\WeatherAPI\WeatherAPI\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\User\Desktop\Projects\Bitcube\Backend\WeatherAPI\WeatherAPI\
